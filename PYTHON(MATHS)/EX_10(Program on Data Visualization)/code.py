@@ -2,7 +2,6 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
 
-# Generate a hypothetical dataset
 data = {
     'Category': ['A', 'B', 'C', 'D', 'E'],
     'Value1': [25, 40, 30, 35, 20],
